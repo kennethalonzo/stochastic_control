@@ -1,4 +1,4 @@
 # stochastic_control
 Presentation: Optimal Stopping for Perpetual American Call Option
 
-This presentation summarizes a team-based final project, which provides our first attempt at describing optimal stopping for a perpetual American call.
+This presentation summarizes a team-based final project, which describes optimal stopping for a perpetual American call.
